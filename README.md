@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loooper06
 - 👀 I’m interested in Web Development(Websites & WebApps)
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning nest.js
 - 📫 How to reach me Email : loooper06@gmail.com
 
 <!---
