@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Golizadeh
 - 👀 I’m interested in Web Development(Websites & WebApps)
-- 🌱 I’m currently learning nest.js
+- 🌱 I’m currently working on node js/express js
 - 📫 How to reach me Email : loooper06@gmail.com
 
 <!---
